@@ -1,0 +1,13 @@
+C:\Users\Teblo\Documents\PRG272_Project\bin\Debug\PRG272_Project.exe.config
+C:\Users\Teblo\Documents\PRG272_Project\bin\Debug\PRG272_Project.exe
+C:\Users\Teblo\Documents\PRG272_Project\bin\Debug\PRG272_Project.pdb
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.csproj.AssemblyReference.cache
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.AddForm.resources
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.Form1.resources
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.HomeForm.resources
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.Properties.Resources.resources
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.csproj.GenerateResource.cache
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.csproj.CoreCompileInputs.cache
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.exe
+C:\Users\Teblo\Documents\PRG272_Project\obj\Debug\PRG272_Project.pdb
