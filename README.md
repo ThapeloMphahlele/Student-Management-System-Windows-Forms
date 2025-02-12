@@ -1,6 +1,3 @@
-## **3. Student Management System (Windows Forms)**  
-
-```md
 # Student Management System 🎓
 
 A **C# Windows Forms** application for managing student records using a database.
